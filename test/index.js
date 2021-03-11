@@ -1,4 +1,4 @@
-const { Hive } = require('../src/hive');
+const { Hive } = require('..');
 const assert = require('assert').strict;
 
 /**

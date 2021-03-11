@@ -1,5 +1,5 @@
 const stdhive = require('./');
-const { sentinel } = require('../src/hnode');
+const { sentinel } = require('..');
 const assert = require('assert').strict;
 
 if (require.main == module) {
