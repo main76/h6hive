@@ -17,7 +17,7 @@ I might be considering implement a scalable Hive class in the future.
 
 ### Axios
 
-- x-axis: :arrow_up:
+- x-axis: :arrow_down:
 - y-axis: :arrow_lower_left:
 - z-axis: :arrow_lower_right:
 
