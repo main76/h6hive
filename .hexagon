@@ -1,0 +1,13 @@
+        ____
+       /    \
+  ____/north \____
+ /    \  0   /    \
+/north \____/north \
+\west 3/    \east 5/
+ \____/center\____/
+ /    \  1   /    \
+/south \____/south \
+\west 4/    \east 6/
+ \____/south \____/
+      \  2   /
+       \____/

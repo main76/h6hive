@@ -1,0 +1,29 @@
+{
+  "name": "h6hive",
+  "version": "0.1.0",
+  "description": "A hive-like hexagon vector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "vector",
+    "collection",
+    "hive",
+    "hexagon",
+    "javascript"
+  ],
+  "author": "main76",
+  "license": "MIT",
+  "engines": {
+    "node": "^14.*.*"
+  },
+  "devDependencies": {
+    "@types/assert": "^1.5.4",
+    "@types/node": "^14.14.33"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/main76/h6hive.git"
+  }
+}
