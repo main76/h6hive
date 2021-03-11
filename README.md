@@ -89,4 +89,4 @@ For more, see the source code of `test/sentinel.js`.
 - [x] Chain calling
 - [x] Sentinel behavior
 - [x] Set node
-- [x] to ascii string
+- [x] To ascii string
